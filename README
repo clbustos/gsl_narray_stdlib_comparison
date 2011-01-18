@@ -1,0 +1,10 @@
+GSL, NArray and std lib Matrix vector and matrix benchmarks.
+============================================================
+
+Requires the following gems
+
+* gsl
+* narray
+* extendmatrix
+* bench_press
+
